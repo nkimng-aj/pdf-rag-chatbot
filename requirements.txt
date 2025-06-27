@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+langchain
+langchain-community
+langchain-huggingface
+langchain-experimental
+langchain-chroma
+chromadb
+pypdf
